@@ -1,1 +1,1 @@
-console.log("First git");
+console.log("First git tutorial");
